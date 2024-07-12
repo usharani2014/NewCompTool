@@ -1,0 +1,914 @@
+[
+    {
+      "Sr. No.": 1,
+      "Circular Reference": "Compliance Functions in Banks April 20, 2007",
+      "Regulator": "RBI",
+      "Section Reference": "-",
+      "Applicability": "Not Applicable",
+      "Circular Extract": "RBI/2006-2007/335\nRef. DBS. CO.PP.BC 6/11.01.005/2006-07\nApril 20, 2007\nThe Chairman / CEO\nAll Scheduled Commercial Banks (excluding RRBs)\nMadam / Dear Sir,\nCompliance function in banks\nAs you are aware, draft guidelines on compliance function in banks were placed on the\nwebsite vide Ref No. DBS.CO.PP.BC 1/11.01.005/2006-07 dated November 16, 2006.\nBased on the responses / comments on the draft guidelines received from banks, Self\nRegulatory Organizations and others, the draft guidelines have been suitably modified.\nThe guidelines may be implemented in full within a time frame of six months from the\ndate of this circular. The implementation would be subjected to comprehensive review\nby the Reserve Bank of India during the ensuing Annual Financial Inspection.\nYours faithfully,\n(G.Gopalakrishna)\nChief General Manager-in-Charge"
+    },
+    {
+      "Sr. No.": 2,
+      "Circular Reference": "Compliance Functions in Banks April 20, 2007",
+      "Regulator": "RBI",
+      "Section Reference": "-",
+      "Applicability": "Not Applicable",
+      "Circular Extract": "Preamble\nThe banks in India already have certain compliance processes in place in accordance with the recommendations of the Ghosh Committee report of 1992. These processes and the organizational structures through which they operate have been primarily shaped by the existing RBI guidelines to banks as also by the banks’ own standards of internal governance. However, as the present arrangements in the banks show, its evolution as an institutional arrangement has not kept pace with the increasing complexities and sophistication in the banking business. In a number of banks, compliance function is yet to be fully cognizant of the “compliance risk” and the reputational risk arising out of compliance failures causing huge economic costs. Consequently, there is a critical need for the management of that risk as one of the key facets of integrated risk management or enterprise wide risk management framework. Compliance function in banks is one of the key elements in the banks’ corporate governance structure. The compliance function in banks has to be adequately enabled and made sufficiently independent. The Basel Committee on Banking Supervision (BCBS) document (April 2005) essentially articulates this perception. This circular seeks to introduce certain principles, standards and procedures relating to compliance function consistent with the BCBS document and keeping in view the operating environment in India. This circular also intends to articulate that the compliance function is an integral part of governance along with the internal control and risk management process. For the compliance function to be effective, it must be supported by a healthy compliance culture within the organization. The guidelines are also intended to guide the bank led Financial Conglomerates in managing their “Group wide compliance risk”. In this circular, a set of minimum guidelines have been laid down. There are significant differences among the banks with regard to their scale of operations, their risk profiles and organizational structures. Therefore, the banks should organize their compliance functions and set priorities for the management of the compliance risks in their organization to suit their requirements."
+    },
+    {
+      "Sr. No.": 3,
+      "Circular Reference": "Compliance Functions in Banks April 20, 2007",
+      "Regulator": "RBI",
+      "Section Reference": "-",
+      "Applicability": "Not Applicable",
+      "Circular Extract": "Compliance and Compliance function in Banks\nIntroduction\nThe Compliance Function has to ensure strict observance of all statutory provisions contained in various legislations such as Banking Regulation Act, Reserve Bank of India Act, Foreign Exchange Management Act, Prevention of Money Laundering Act etc. as well as to ensure observance of other regulatory guidelines issued from time to time; standards and codes prescribed by BCSBI, IBA, FEDAI, FIMMDA etc; and also each bank's internal policies and fair practices code. Compliance laws, rules and standards generally cover matters such as observing proper standards of market conduct, managing conflicts of interest, treating customers fairly, and ensuring the suitability of customer advice. They typically include specific areas such as the prevention of money laundering and terrorist financing, and may extend to tax laws that are relevant to the structuring of banking products or customer advice. Compliance laws, rules and standards have various sources, including primary legislation, rules and standards issued by legislators and supervisors, market conventions, codes of practice promoted by industry associations, and internal codes of conduct applicable to the staff members of the bank. For the reasons mentioned above, these are likely to go beyond what is legally binding and embrace broader standards of integrity and ethical conduct."
+    },
+    {
+      "Sr. No.": 4,
+      "Circular Reference": "Compliance Functions in Banks April 20, 2007",
+      "Regulator": "RBI",
+      "Section Reference": null,
+      "Applicability": "Applicable",
+      "Circular Extract": "Each bank, will formulate a Compliance Function for their bank. It shall be the responsibility of bank's Compliance Officer in the bank to assist the top management in managing effectively the compliance risks faced by the bank."
+    },
+    {
+      "Sr. No.": 5,
+      "Circular Reference": "Compliance Functions in Banks April 20, 2007",
+      "Regulator": "RBI",
+      "Section Reference": 2,
+      "Applicability": "Not Applicable",
+      "Circular Extract": "Compliance Risk and significance of Compliance Function"
+    },
+    {
+      "Sr. No.": 6,
+      "Circular Reference": "Compliance Functions in Banks April 20, 2007",
+      "Regulator": "RBI",
+      "Section Reference": 2.1,
+      "Applicability": "Applicable",
+      "Circular Extract": "The BCBS paper on Compliance and the Compliance Function in Banks (April\n2005) defines Compliance risk as “the risk of legal or regulatory sanctions,\nmaterial financial loss, or loss to reputation a bank may suffer as a result of its\nfailure to comply with laws, regulations, rules, related self-regulatory organization\nstandards, and codes of conduct applicable to its banking activities” (together,\n“compliance laws, rules and standards”)."
+    },
+    {
+      "Sr. No.": 7,
+      "Circular Reference": "Compliance Functions in Banks April 20, 2007",
+      "Regulator": "RBI",
+      "Section Reference": 2.2,
+      "Applicability": "Applicable",
+      "Circular Extract": "The compliance area is critically important in identifying, evaluating, and addressing legal and reputational risks. Given the significance of these risks, a strong Group1/enterprise-wide compliance programme is a necessity for banks. A group/enterprise-wide compliance programme helps the bank to look at and across business lines and activities of the organization as a whole and to consider how activities in one area of the firm may affect the legal and reputational risks of other business lines and the entire group/ enterprise."
+    },
+    {
+      "Sr. No.": 8,
+      "Circular Reference": "Compliance Functions in Banks April 20, 2007",
+      "Regulator": "RBI",
+      "Section Reference": 2.3,
+      "Applicability": "Applicable",
+      "Circular Extract": "A group/enterprise-wide compliance programme could help management and the Board in understanding where the legal and reputational risks in the organization are concentrated, provide comparisons of the level and changing nature of risks, and identify those control processes that most need enhancement. The compliance function must therefore ensure that controls and procedures capture the appropriate information to allow senior management and the board to better perform their risk management functions on a group-wide basis."
+    },
+    {
+      "Sr. No.": 9,
+      "Circular Reference": "Compliance Functions in Banks April 20, 2007",
+      "Regulator": "RBI",
+      "Section Reference": 3,
+      "Applicability": "Applicable",
+      "Circular Extract": "Responsibility of the Board and Senior Management\nCompliance starts at the top. It will be most effective in a corporate culture that emphasizes standards of honesty and integrity and one in which the board of directors and senior management lead by example."
+    },
+    {
+      "Sr. No.": 10,
+      "Circular Reference": "Compliance Functions in Banks April 20, 2007",
+      "Regulator": "RBI",
+      "Section Reference": 3.1,
+      "Applicability": "Applicable",
+      "Circular Extract": "Responsibility of the Board of Directors\nThe Board would be responsible for ensuring that an appropriate compliance policy is in place in the bank to manage compliance risk and also overseeing its implementation. "
+    },
+    {
+      "Sr. No.": 11,
+      "Circular Reference": "Compliance Functions in Banks April 20, 2007",
+      "Regulator": "RBI",
+      "Section Reference": 3.1,
+      "Applicability": "Applicable",
+      "Circular Extract": "It has to ensure that compliance issues are resolved effectively and expeditiously by senior management with the assistance of compliance staff. If necessary, the Board may delegate these tasks to the Audit Committee of the  Board (ACB) or a specific Board level Committee constituted for the purpose. "
+    },
+    {
+      "Sr. No.": 12,
+      "Circular Reference": "Compliance Functions in Banks April 20, 2007",
+      "Regulator": "RBI",
+      "Section Reference": 3.1,
+      "Applicability": "Applicable",
+      "Circular Extract": "The Board or ACB or the Board Committee, as the case may be, should review compliance function on a quarterly basis. A detailed annual review should also be placed before the Board/ ACB or the Board level Committee."
+    },
+    {
+      "Sr. No.": 13,
+      "Circular Reference": "Compliance Functions in Banks April 20, 2007",
+      "Regulator": "RBI",
+      "Section Reference": 3.1,
+      "Applicability": "Applicable",
+      "Circular Extract": "In order to ensure there is no potential for any conflict of interest and that the activities of the compliance function are subject to independent review, the compliance function and the audit function of the bank should necessarily be kept separate."
+    },
+    {
+      "Sr. No.": 14,
+      "Circular Reference": "Compliance Functions in Banks April 20, 2007",
+      "Regulator": "RBI",
+      "Section Reference": 3.2,
+      "Applicability": "Not Applicable",
+      "Circular Extract": "Responsibility of Senior Management"
+    },
+    {
+      "Sr. No.": 15,
+      "Circular Reference": "Compliance Functions in Banks April 20, 2007",
+      "Regulator": "RBI",
+      "Section Reference": "3.2.1",
+      "Applicability": "Applicable",
+      "Circular Extract": "The bank's senior management would be responsible for establishing a written compliance policy that would contain the basic principles to be followed by the management and staff, and would explain the main process by which compliance risk would be identified and managed through all levels of the organization."
+    },
+    {
+      "Sr. No.": 16,
+      "Circular Reference": "Compliance Functions in Banks April 20, 2007",
+      "Regulator": "RBI",
+      "Section Reference": "3.2.2",
+      "Applicability": "Applicable",
+      "Circular Extract": "The senior management would ensure that appropriate remedial or disciplinary action is taken if breaches are identified."
+    },
+    {
+      "Sr. No.": 17,
+      "Circular Reference": "Compliance Functions in Banks April 20, 2007",
+      "Regulator": "RBI",
+      "Section Reference": "3.2.3",
+      "Applicability": "Not Applicable",
+      "Circular Extract": "Senior management should, with the assistance of the compliance function:"
+    },
+    {
+      "Sr. No.": 18,
+      "Circular Reference": "Compliance Functions in Banks April 20, 2007",
+      "Regulator": "RBI",
+      "Section Reference": "3.2.3",
+      "Applicability": "Applicable",
+      "Circular Extract": "at least once a year, identify and assess the main compliance risk facing the\nbank and formulate the plans to manage them."
+    },
+    {
+      "Sr. No.": 19,
+      "Circular Reference": "Compliance Functions in Banks April 20, 2007",
+      "Regulator": "RBI",
+      "Section Reference": "3.2.3",
+      "Applicability": "Applicable",
+      "Circular Extract": "Submit to the Board/ ACB/ Board Committee, as the case may be, quarterly and annual reviews as prescribed in para 3.1 above, in such a manner as to assist board members to make an informed judgment on whether the bank is managing its compliance risk effectively; and"
+    },
+    {
+      "Sr. No.": 20,
+      "Circular Reference": "Compliance Functions in Banks April 20, 2007",
+      "Regulator": "RBI",
+      "Section Reference": "3.2.3",
+      "Applicability": "Applicable",
+      "Circular Extract": "report promptly to the board of directors or the ACB on any material compliance\nfailure (e.g. failure that may attract a significant risk of legal or regulatory\nsanctions, material financial loss, or loss to reputation)."
+    },
+    {
+      "Sr. No.": 21,
+      "Circular Reference": "Compliance Functions in Banks April 20, 2007",
+      "Regulator": "RBI",
+      "Section Reference": 4,
+      "Applicability": "Not Applicable",
+      "Circular Extract": "The Compliance Policy"
+    },
+    {
+      "Sr. No.": 22,
+      "Circular Reference": "Compliance Functions in Banks April 20, 2007",
+      "Regulator": "RBI",
+      "Section Reference": 4.1,
+      "Applicability": "Applicable",
+      "Circular Extract": "A robust compliance system in a bank should include a well documented\nCompliance Policy, outlining the compliance philosophy of the bank, role and set up of the Compliance Department, composition of its staff and their specific responsibilities. "
+    },
+    {
+      "Sr. No.": 23,
+      "Circular Reference": "Compliance Functions in Banks April 20, 2007",
+      "Regulator": "RBI",
+      "Section Reference": 4.1,
+      "Applicability": "Applicable",
+      "Circular Extract": "The policy should be reviewed annually by the Board."
+    },
+    {
+      "Sr. No.": 24,
+      "Circular Reference": "Compliance Functions in Banks April 20, 2007",
+      "Regulator": "RBI",
+      "Section Reference": 4.2,
+      "Applicability": "Not Applicable",
+      "Circular Extract": "Broadly, the policy should provide for the following aspects:"
+    },
+    {
+      "Sr. No.": 25,
+      "Circular Reference": "Compliance Functions in Banks April 20, 2007",
+      "Regulator": "RBI",
+      "Section Reference": 4.2,
+      "Applicability": "Applicable",
+      "Circular Extract": "Setting up of an independent Compliance Department at the Head Office with a senior executive heading it with adequate support staff and its role and responsibilities specified."
+    },
+    {
+      "Sr. No.": 26,
+      "Circular Reference": "Compliance Functions in Banks April 20, 2007",
+      "Regulator": "RBI",
+      "Section Reference": 4.2,
+      "Applicability": "Applicable",
+      "Circular Extract": "Compliance structure in controlling offices and branches specifying the role and\nresponsibility of each functionary in the compliance units."
+    },
+    {
+      "Sr. No.": 27,
+      "Circular Reference": "Compliance Functions in Banks April 20, 2007",
+      "Regulator": "RBI",
+      "Section Reference": 4.2,
+      "Applicability": "Applicable",
+      "Circular Extract": "Measures to ensure independence of the compliance function. It would be necessary that the remuneration of the compliance functionaries is not related to the business line for which they exercise compliance responsibilities though it could generally be related to the financial performance of the bank as a whole."
+    },
+    {
+      "Sr. No.": 28,
+      "Circular Reference": "Compliance Functions in Banks April 20, 2007",
+      "Regulator": "RBI",
+      "Section Reference": 4.2,
+      "Applicability": "Applicable",
+      "Circular Extract": "Focus of the compliance function on regulatory compliance, statutory compliance, compliance with fair practice codes and other codes prescribed / suggested by self-regulatory organizations, government policies, bank's internal policies and prevention of money laundering and funding of illegal activities."
+    },
+    {
+      "Sr. No.": 29,
+      "Circular Reference": "Compliance Functions in Banks April 20, 2007",
+      "Regulator": "RBI",
+      "Section Reference": 4.2,
+      "Applicability": "Applicable",
+      "Circular Extract": "Monitoring of and monitoring mechanism for the compliance testing procedure."
+    },
+    {
+      "Sr. No.": 30,
+      "Circular Reference": "Compliance Functions in Banks April 20, 2007",
+      "Regulator": "RBI",
+      "Section Reference": 4.2,
+      "Applicability": "Applicable",
+      "Circular Extract": "Reporting requirements including reporting of monitoring results, compliance risk assessment, change in the compliance risk profile etc by compliance function to the senior management and the Board of Directors or ACB or the committee of the Board as the case may be."
+    },
+    {
+      "Sr. No.": 31,
+      "Circular Reference": "Compliance Functions in Banks April 20, 2007",
+      "Regulator": "RBI",
+      "Section Reference": 4.2,
+      "Applicability": "Applicable",
+      "Circular Extract": "Right of the compliance function to have access to information necessary to carry out its responsibilities and for pointing out / looking into possible breaches of compliance policy."
+    },
+    {
+      "Sr. No.": 32,
+      "Circular Reference": "Compliance Functions in Banks April 20, 2007",
+      "Regulator": "RBI",
+      "Section Reference": 4.2,
+      "Applicability": "Applicable",
+      "Circular Extract": "Relationship between Chief Compliance Officer and heads of other functional departments."
+    },
+    {
+      "Sr. No.": 33,
+      "Circular Reference": "Compliance Functions in Banks April 20, 2007",
+      "Regulator": "RBI",
+      "Section Reference": 4.2,
+      "Applicability": "Applicable",
+      "Circular Extract": "Independence of the compliance function from audit function and clarity on their respective roles."
+    },
+    {
+      "Sr. No.": 34,
+      "Circular Reference": "Compliance Functions in Banks April 20, 2007",
+      "Regulator": "RBI",
+      "Section Reference": 4.2,
+      "Applicability": "Applicable",
+      "Circular Extract": "Mechanism for dissemination of information on regulatory prescriptions and guidelines among operational staff and "
+    },
+    {
+      "Sr. No.": 35,
+      "Circular Reference": "Compliance Functions in Banks April 20, 2007",
+      "Regulator": "RBI",
+      "Section Reference": 4.2,
+      "Applicability": "Applicable",
+      "Circular Extract": "periodic updating of operational manuals to incorporate changes in regulatory and legal etc., prescriptions."
+    },
+    {
+      "Sr. No.": 36,
+      "Circular Reference": "Compliance Functions in Banks April 20, 2007",
+      "Regulator": "RBI",
+      "Section Reference": 4.2,
+      "Applicability": "Applicable",
+      "Circular Extract": "Approval process for all new processes and products by the Compliance Department prior to their introduction."
+    },
+    {
+      "Sr. No.": 37,
+      "Circular Reference": "Compliance Functions in Banks April 20, 2007",
+      "Regulator": "RBI",
+      "Section Reference": 4.2,
+      "Applicability": "Applicable",
+      "Circular Extract": "Right of the compliance function to freely disclose its findings and views to senior management, Board / ACB or the Committee of the Board."
+    },
+    {
+      "Sr. No.": 38,
+      "Circular Reference": "Compliance Functions in Banks April 20, 2007",
+      "Regulator": "RBI",
+      "Section Reference": 5,
+      "Applicability": "Not Applicable",
+      "Circular Extract": "The Compliance structure"
+    },
+    {
+      "Sr. No.": 39,
+      "Circular Reference": "Compliance Functions in Banks April 20, 2007",
+      "Regulator": "RBI",
+      "Section Reference": 5.1,
+      "Applicability": "Applicable",
+      "Circular Extract": "Depending on its branch network, size and complexity of the business operations, sophistication of products and services offered etc, every bank should decide on the organizational structure and composition of its compliance unit. The structure may, however, be laid down within the overall framework of these guidelines and should avoid all potential conflicts of interest."
+    },
+    {
+      "Sr. No.": 40,
+      "Circular Reference": "Compliance Functions in Banks April 20, 2007",
+      "Regulator": "RBI",
+      "Section Reference": 5.2,
+      "Applicability": "Applicable",
+      "Circular Extract": "A Compliance Department having formal status should be set up at the Head Office of the bank, (in the case of foreign bank branches it should be at the bank’s Principal Office in India). The compliance department should have an executive or senior staff member of the cadre not less than in the rank of DGM or equivalent designated as Group Compliance Officer or Head of Compliance with overall responsibility for coordinating the identification and management of the bank's compliance risk and supervising the activities of other compliance function staff. He should report to the senior management of the bank but have the right to report directly to the Board of Directors or ACB or the committee of the Board, as the case may be."
+    },
+    {
+      "Sr. No.": 41,
+      "Circular Reference": "Compliance Functions in Banks April 20, 2007",
+      "Regulator": "RBI",
+      "Section Reference": 5.3,
+      "Applicability": "Applicable",
+      "Circular Extract": "The Compliance Officer in a bank should be appointed for a fixed tenure, as laid down in the bank’s compliance policy, and during that tenure, he may be removed / transferred only with the approval of the Board and through an internal administrative procedure in which his negligence in discharging compliance function or his serious acts of omission and commissions in other financial or administrative matters is established and recorded in a transparent manner."
+    },
+    {
+      "Sr. No.": 42,
+      "Circular Reference": "Compliance Functions in Banks April 20, 2007",
+      "Regulator": "RBI",
+      "Section Reference": 5.4,
+      "Applicability": "Applicable",
+      "Circular Extract": "The Board, Audit Committee of the Board or any other Board Committee as the case may be, should be kept informed of any change in the Chief Compliance Officer as also the reason for the change in the incumbent. The Reserve Bank of India shall be kept informed of the name of the Chief Compliance Officer as also any change thereof, as and when it takes place."
+    },
+    {
+      "Sr. No.": 43,
+      "Circular Reference": "Compliance Functions in Banks April 20, 2007",
+      "Regulator": "RBI",
+      "Section Reference": 5.5,
+      "Applicability": "Applicable",
+      "Circular Extract": "In the case of larger banks, compliance staff may be located within operating business lines. Internationally active banks (including foreign banks having a presence in India) may also have group and local compliance officers reporting to their own Regional / Global Head while closely working with the local CEO on regulatory / compliance issues."
+    },
+    {
+      "Sr. No.": 44,
+      "Circular Reference": "Compliance Functions in Banks April 20, 2007",
+      "Regulator": "RBI",
+      "Section Reference": 5.6,
+      "Applicability": "Applicable",
+      "Circular Extract": "Some banks may wish to organize their compliance function within their operational risk function, as there is a close relationship between compliance risk and certain aspects of operational risk. Others may prefer to have separate compliance and operational risk functions, but establish mechanisms requiring close cooperation between the two functions on compliance matters."
+    },
+    {
+      "Sr. No.": 45,
+      "Circular Reference": "Compliance Functions in Banks April 20, 2007",
+      "Regulator": "RBI",
+      "Section Reference": 5.7,
+      "Applicability": "Applicable",
+      "Circular Extract": "The Compliance Department should be provided with adequate staff. Further, each Department in the Head Office and controlling offices and the branches (and / or Strategic Business Units (SBUs) in the case of certain banks as considered appropriate depending on their business delivery model) should have distinct compliance function and the functions should be undertaken by specifically identified / designated compliance official who would report to the Chief Compliance Officer."
+    },
+    {
+      "Sr. No.": 46,
+      "Circular Reference": "Compliance Functions in Banks April 20, 2007",
+      "Regulator": "RBI",
+      "Section Reference": 5.8,
+      "Applicability": "Applicable",
+      "Circular Extract": "However, in small sized banks with limited branch network, the compliance staff could be assigned some other duties while ensuring that there is no conflict of interest. Under no circumstances, the compliance staff should be assigned audit/inspection duty as it gives rise to serious conflict of interest in view of the fact that all products and processes are expected to be cleared by the Compliance Department and its audit needs to be carried out independently by separate set of staff."
+    },
+    {
+      "Sr. No.": 47,
+      "Circular Reference": "Compliance Functions in Banks April 20, 2007",
+      "Regulator": "RBI",
+      "Section Reference": 5.9,
+      "Applicability": "Applicable",
+      "Circular Extract": "In some banks, the entire compliance responsibilities may not be carried out by the compliance department and may be vested in different departments depending on the business model, size; structure etc. Compliance function staff who reside in operating business units or in local subsidiaries may have a reporting line to operating business unit management or local management, but it may be ensured that they also have a reporting line through to the head of compliance as regards their compliance responsibilities. In cases where compliance function staff reside in independent support units (e.g. legal, financial control, risk management), a separate reporting line from staff in these units to the head of compliance may not be necessary. However, these units should cooperate closely with the head of compliance."
+    },
+    {
+      "Sr. No.": 48,
+      "Circular Reference": "Compliance Functions in Banks April 20, 2007",
+      "Regulator": "RBI",
+      "Section Reference": "5.10",
+      "Applicability": "Not Applicable",
+      "Circular Extract": "In all such cases, there should invariably be an appropriate mechanism for coordination among these departments to enable the Chief Compliance Officer to perform the assigned responsibilities effectively."
+    },
+    {
+      "Sr. No.": 49,
+      "Circular Reference": "Compliance Functions in Banks April 20, 2007",
+      "Regulator": "RBI",
+      "Section Reference": 5.11,
+      "Applicability": "Applicable",
+      "Circular Extract": "The compliance function should also attend to the compliance of directions from other regulators (IRDA, SEBI etc) in those cases where the activities of the bank are not limited to the banking sector. For example, a bank which is acting as a corporate agent for distribution of other companies’ insurance products may receive direction from IRDA, which should be a part of the compliance function. Further, discomfort conveyed to the bank on any issue by other regulators, should be brought to the notice of the Reserve Bank of India."
+    },
+    {
+      "Sr. No.": 50,
+      "Circular Reference": "Compliance Functions in Banks April 20, 2007",
+      "Regulator": "RBI",
+      "Section Reference": 5.12,
+      "Applicability": "Applicable",
+      "Circular Extract": "The Chief Compliance Officer should be the nodal point of contact between the bank and the regulator. Regardless of how the compliance function is organized within a bank, it should be independent and sufficiently resourced, its responsibilities should be clearly specified and its activities should be subject to periodic and independent review."
+    },
+    {
+      "Sr. No.": 51,
+      "Circular Reference": "Compliance Functions in Banks April 20, 2007",
+      "Regulator": "RBI",
+      "Section Reference": 5.13,
+      "Applicability": "Applicable",
+      "Circular Extract": "Apart from the basic qualifications, the Compliance staff should preferably have fair knowledge of law, accountancy and information technology and also adequate practical experience in various business lines and audit/inspection functions to enable them to carry out their duties effectively. In order to keep the compliance staff up-to-date with developments in the areas of banking laws, rules and standards, regular and systematic education and training in new products and services introduced in the banking industry as well as in the areas of corporate governance, risk management, supervisory practices etc. may be considered."
+    },
+    {
+      "Sr. No.": 52,
+      "Circular Reference": "Compliance Functions in Banks April 20, 2007",
+      "Regulator": "RBI",
+      "Section Reference": 6,
+      "Applicability": "Not Applicable",
+      "Circular Extract": "Compliance principles, process and procedures"
+    },
+    {
+      "Sr. No.": 53,
+      "Circular Reference": "Compliance Functions in Banks April 20, 2007",
+      "Regulator": "RBI",
+      "Section Reference": 6.1,
+      "Applicability": "Applicable",
+      "Circular Extract": "Compliance department should periodically circulate the instances of compliance failures among staff along with preventive instructions."
+    },
+    {
+      "Sr. No.": 54,
+      "Circular Reference": "Compliance Functions in Banks April 20, 2007",
+      "Regulator": "RBI",
+      "Section Reference": 6.2,
+      "Applicability": "Applicable",
+      "Circular Extract": "Inspection/audit findings should serve as a feedback mechanism for the Compliance Department for assessing the areas of compliance breaches/failures. The Chief Compliance Officer should be an invitee to the meetings of the ACB. A check-list on the compliance aspect may be made part of the inspection report for the inspectors / concurrent auditors to verify the level of compliance. The audit function should keep the Head of compliance informed of audit findings related to compliance."
+    },
+    {
+      "Sr. No.": 55,
+      "Circular Reference": "Compliance Functions in Banks April 20, 2007",
+      "Regulator": "RBI",
+      "Section Reference": 6.3,
+      "Applicability": "Applicable",
+      "Circular Extract": "Compliance function should vet the guidelines / circulars issued, for compliance with regulatory guidelines before these are disseminated amongst the operational units. The compliance function should incorporate a robust mechanism to:\nI) ensure that regulatory guidelines / instructions are promptly issued / disseminated within the organization.\nii) monitor compliance with the regulatory guidelines/ instructions"
+    },
+    {
+      "Sr. No.": 56,
+      "Circular Reference": "Compliance Functions in Banks April 20, 2007",
+      "Regulator": "RBI",
+      "Section Reference": 6.4,
+      "Applicability": "Applicable",
+      "Circular Extract": "The Compliance Department should serve as a reference point for the bank's staff from operational departments for seeking clarifications/ interpretations of various regulatory and statutory guidelines"
+    },
+    {
+      "Sr. No.": 57,
+      "Circular Reference": "Compliance Functions in Banks April 20, 2007",
+      "Regulator": "RBI",
+      "Section Reference": 6.5,
+      "Applicability": "Applicable",
+      "Circular Extract": "The Compliance function should on a pro active basis identify, document, assess the compliance risks associated with banks' business activities and products. "
+    },
+    {
+      "Sr. No.": 58,
+      "Circular Reference": "Compliance Functions in Banks April 20, 2007",
+      "Regulator": "RBI",
+      "Section Reference": 6.5,
+      "Applicability": "Applicable",
+      "Circular Extract": "The compliance risks in all new products and processes should be thoroughly analysed and appropriate risk mitigants by way of necessary checks and balances should be put in place before launching. "
+    },
+    {
+      "Sr. No.": 59,
+      "Circular Reference": "Compliance Functions in Banks April 20, 2007",
+      "Regulator": "RBI",
+      "Section Reference": 6.5,
+      "Applicability": "Applicable",
+      "Circular Extract": "The Chief Compliance Officer should be a member of the 'new product' committee/s to ensure that the new products / processes have clearance from all perspectives including compliance. All new products should be subjected to intensive monitoring for the first six months of introduction to ensure that the indicative parameters of compliance risk are adequately monitored."
+    },
+    {
+      "Sr. No.": 60,
+      "Circular Reference": "Compliance Functions in Banks April 20, 2007",
+      "Regulator": "RBI",
+      "Section Reference": 6.6,
+      "Applicability": "Applicable",
+      "Circular Extract": "Banks should develop function-wise Compliance Manuals duly approved by the Chief Compliance Officer if their operating manuals do not already contain specific sections or chapters on compliance and provide these to the staff associated with the respective functions."
+    },
+    {
+      "Sr. No.": 61,
+      "Circular Reference": "Compliance Functions in Banks April 20, 2007",
+      "Regulator": "RBI",
+      "Section Reference": 6.7,
+      "Applicability": "Applicable",
+      "Circular Extract": "The Compliance Department should, at frequent intervals, interact with Legal Department, Operational Risk Management Department, Taxation Department and Audit/Inspection Department of the bank to take stock of the latest developments."
+    },
+    {
+      "Sr. No.": 62,
+      "Circular Reference": "Compliance Functions in Banks April 20, 2007",
+      "Regulator": "RBI",
+      "Section Reference": 6.7,
+      "Applicability": "Applicable",
+      "Circular Extract": "Compliance officers should have access to all information they require and have the right to conduct investigation and report the findings to the Chief Compliance Officer."
+    },
+    {
+      "Sr. No.": 63,
+      "Circular Reference": "Compliance Functions in Banks April 20, 2007",
+      "Regulator": "RBI",
+      "Section Reference": 6.7,
+      "Applicability": "Applicable",
+      "Circular Extract": "The Chief Compliance Officer shall necessarily be a participant in the quarterly informal discussions held with RBI. In case no quarterly meeting is held, he should meet the Chief General Manager, DBS in charge of the concerned bank at Central Office of RBI, once in every quarter of the year, to discuss compliance issues."
+    },
+    {
+      "Sr. No.": 64,
+      "Circular Reference": "Compliance Functions in Banks April 20, 2007",
+      "Regulator": "RBI",
+      "Section Reference": 6.8,
+      "Applicability": "Applicable",
+      "Circular Extract": "The compliance functionary should be looked at as a friend, philosopher and guide by the business units. There should be close co-ordination and partnership between Compliance and Business Operations functions. The interaction may be formalized by making the Chief Compliance Officer a member of the various inter-departmental committees in the bank."
+    },
+    {
+      "Sr. No.": 65,
+      "Circular Reference": "Compliance Functions in Banks April 20, 2007",
+      "Regulator": "RBI",
+      "Section Reference": 6.9,
+      "Applicability": "Applicable",
+      "Circular Extract": "The compliance function should monitor and test compliance by performing sufficient and representative compliance testing and the results of such compliance testing should be reported to the senior management."
+    },
+    {
+      "Sr. No.": 66,
+      "Circular Reference": "Compliance Functions in Banks April 20, 2007",
+      "Regulator": "RBI",
+      "Section Reference": "6.10",
+      "Applicability": "Applicable",
+      "Circular Extract": "It should also consider ways to measure compliance risk (e.g. by using\nperformance indicators) and use such measurements to enhance compliance risk assessment."
+    },
+    {
+      "Sr. No.": 67,
+      "Circular Reference": "Compliance Functions in Banks April 20, 2007",
+      "Regulator": "RBI",
+      "Section Reference": 6.11,
+      "Applicability": "Applicable",
+      "Circular Extract": "Compliance staff should be empowered to conduct compliance reviews/investigations, whenever required. The authority to use external experts for the purpose of investigation, if required, should be left to the discretion of the Chief Compliance Officer."
+    },
+    {
+      "Sr. No.": 68,
+      "Circular Reference": "Compliance Functions in Banks April 20, 2007",
+      "Regulator": "RBI",
+      "Section Reference": 6.12,
+      "Applicability": "Applicable",
+      "Circular Extract": "The compliance function should be free to report to senior management on any irregularities without fear of disfavour from management or other staff members. Although its normal reporting line should be to senior management, the compliance function should also have the right of direct access to the board of directors or to the Audit Committee of the board or a committee of the Board, as the case may be, bypassing normal reporting lines. It may be useful for the board or the Audit Committee or the special Committee of the Board to meet with the head of compliance at least annually, as this will help the board or board committee to assess the extent to which the bank is managing its compliance risk effectively."
+    },
+    {
+      "Sr. No.": 69,
+      "Circular Reference": "Compliance Functions in Banks April 20, 2007",
+      "Regulator": "RBI",
+      "Section Reference": 6.13,
+      "Applicability": "Applicable",
+      "Circular Extract": "An Annual Report on compliance failures/breaches should be compiled and placed before the Board/ACB/Board Committee and circulated to all the functional heads."
+    },
+    {
+      "Sr. No.": 70,
+      "Circular Reference": "Compliance Functions in Banks April 20, 2007",
+      "Regulator": "RBI",
+      "Section Reference": 6.13,
+      "Applicability": "Applicable",
+      "Circular Extract": "Non-compliance with any regulatory guidelines and administrative actions initiated against the bank and or corrective steps taken to avoid recurrence of the lapses should be disclosed in the annual report of the banks."
+    },
+    {
+      "Sr. No.": 71,
+      "Circular Reference": "Compliance Functions in Banks April 20, 2007",
+      "Regulator": "RBI",
+      "Section Reference": 6.14,
+      "Applicability": "Applicable",
+      "Circular Extract": "Due weightage could be given to record of compliance during performance appraisal of staff at various levels. Staff accountability should be examined for all compliance failures."
+    },
+    {
+      "Sr. No.": 72,
+      "Circular Reference": "Compliance Functions in Banks April 20, 2007",
+      "Regulator": "RBI",
+      "Section Reference": 7,
+      "Applicability": "Not Applicable",
+      "Circular Extract": "The Compliance Programme"
+    },
+    {
+      "Sr. No.": 73,
+      "Circular Reference": "Compliance Functions in Banks April 20, 2007",
+      "Regulator": "RBI",
+      "Section Reference": 7.1,
+      "Applicability": "Applicable",
+      "Circular Extract": "The responsibilities of the compliance function should be carried out under a compliance programme that sets out its planned activities. The compliance programme should be risk-based and subject to oversight by the head of compliance to ensure appropriate coverage across businesses and co-ordination among risk management functions."
+    },
+    {
+      "Sr. No.": 74,
+      "Circular Reference": "Compliance Functions in Banks April 20, 2007",
+      "Regulator": "RBI",
+      "Section Reference": 7.2,
+      "Applicability": "Applicable",
+      "Circular Extract": "The compliance function may have specific statutory responsibilities (e.g. fulfilling\nthe role of anti-money laundering officer). Banks should carry out an annual compliance risk assessment in order to identify and assess major compliance risks faced by them and prepare a plan to manage the risks. The Annual review should broadly cover the following aspects.\n- Compliance failures, if any during the preceding year and consequential losses and regulatory action as also steps taken to avoid recurrence of the same.\n- List of all major regulatory guidelines issued during the preceding year and steps taken by the bank to ensure compliance.\n- Independence of compliance function\n- Scope of compliance procedures and processes,\n- System of internal control to minimize compliance risk.\n- Compliance with fair practices codes and adherence to standards set by self regulatory bodies and accounting standards.\n- Progress in rectification of significant deficiencies pointed out in the internal audit, statutory audit and RBI inspection reports and position of implementation of recommendations made therein.\n- Strategy for the next year including restructuring of compliance department, if necessary, posting/transfer/training of staff."
+    },
+    {
+      "Sr. No.": 75,
+      "Circular Reference": "Compliance Functions in Banks April 20, 2007",
+      "Regulator": "RBI",
+      "Section Reference": 7.3,
+      "Applicability": "Applicable",
+      "Circular Extract": "Apart from the exhaustive annual review, a monthly report on the position of compliance risk may be put up to the senior management/CEO by the Chief Compliance Officer. "
+    },
+    {
+      "Sr. No.": 76,
+      "Circular Reference": "Compliance Functions in Banks April 20, 2007",
+      "Regulator": "RBI",
+      "Section Reference": 7.3,
+      "Applicability": "Applicable",
+      "Circular Extract": "A brief report on the compliance position may also be placed before the Board/ACB/Board Committee, as the case may be on a quarterly basis."
+    },
+    {
+      "Sr. No.": 77,
+      "Circular Reference": "Compliance Functions in Banks April 20, 2007",
+      "Regulator": "RBI",
+      "Section Reference": 7.4,
+      "Applicability": "Applicable",
+      "Circular Extract": "Instances of all material compliance failures which may attract significant risk of legal or regulatory sanctions, financial loss or loss of reputation should be reported to the Board/ACB/Board Committee promptly."
+    },
+    {
+      "Sr. No.": 78,
+      "Circular Reference": "Compliance Functions in Banks April 20, 2007",
+      "Regulator": "RBI",
+      "Section Reference": 7.5,
+      "Applicability": "Applicable",
+      "Circular Extract": "The activities of the compliance function should be subject to annual review by the internal audit. Compliance risk shall be included in the risk assessment methodology of the internal audit function and the audit programme shall cover the adequacy and effectiveness of the bank's compliance function including testing of controls commensurate with the perceived level of risk."
+    },
+    {
+      "Sr. No.": 79,
+      "Circular Reference": "Compliance Functions in Banks April 20, 2007",
+      "Regulator": "RBI",
+      "Section Reference": 8,
+      "Applicability": "Applicable",
+      "Circular Extract": "Guidance and education\nThe compliance function should advise and assist the senior management on compliance laws, rules and standards, including keeping them informed on developments by establishing written guidance to staff on the appropriate implementation of compliance laws, rules and standards through policies and procedures and other documents such as compliance manuals, internal codes of conduct and practice guidelines."
+    },
+    {
+      "Sr. No.": 80,
+      "Circular Reference": "Compliance Functions in Banks April 20, 2007",
+      "Regulator": "RBI",
+      "Section Reference": 9,
+      "Applicability": "Applicable",
+      "Circular Extract": "Cross Border issue\nBanks may choose to carry on business in various jurisdictions for a variety of legitimate reasons. In such cases, it should be ensured that they comply with applicable laws and regulations in all such jurisdictions and that the organization and structure of the compliance function and its responsibilities are consistent with local legal and regulatory requirements. It is for local businesses to ensure that compliance responsibilities specific to each jurisdiction are carried out by individuals with the appropriate local knowledge and expertise, with oversight from the head of compliance in co-operation with the bank’s other risk Management functions."
+    },
+    {
+      "Sr. No.": 81,
+      "Circular Reference": "Compliance Functions in Banks March 04, 2015",
+      "Regulator": "RBI",
+      "Section Reference": "-",
+      "Applicability": "Not Applicable",
+      "Circular Extract": "RBI/2014-15/489A DBS.CO.PPD. 10946/11.01.005/2014-15 March 04, 2015\nTo, The Chairman / CEO All Scheduled Commercial Banks (excluding RRBs)\nDear Sir / Madam,\nCompliance function in banks\nPlease refer to our circular DBS.CO.PP.BC.6/11.01.005/2006-07 dated April 20, 2007 on compliance function in banks. It has been observed that certain supervisory concerns continue to recur, necessitating the need for tighter compliance regimes in banks in accordance with the above circular. Further, with the advent of Risk Based Supervision approach, some additional aspects are required to be overseen more incisively. Accordingly, while we re-iterate the contemporary relevance of our circular issued in 2007, the additional concerns and other aspects that would need review and testing from the compliance perspective, are summarized in the Annex.\nThis circular has also been placed on RBI’s website (https://rbi.org.in). In view of the increased focus on compliance review in our supervisory processes, a comprehensive compliance plan replete with compliance testing and review structures may be implemented in your bank.\nYours faithfully,\nSd/-\n(Meena Hemachandra)\nPrincipal Chief General Manager\nEncl: As above."
+    },
+    {
+      "Sr. No.": 82,
+      "Circular Reference": "Compliance Functions in Banks March 04, 2015",
+      "Regulator": "RBI",
+      "Section Reference": "-",
+      "Applicability": "Not Applicable",
+      "Circular Extract": "Annex\nAreas that require greater oversight in banks from the perspective of compliance"
+    },
+    {
+      "Sr. No.": 83,
+      "Circular Reference": "Compliance Functions in Banks March 04, 2015",
+      "Regulator": "RBI",
+      "Section Reference": 1,
+      "Applicability": "Applicable",
+      "Circular Extract": "Risk Based Supervision:\na. Certain very specific templates oriented towards compliance assessment have been introduced under the RBS framework. RBI expects Chief Compliance Officers to ensure total compliance with all specified guidelines enlisted in the said template. It may also be noted that regulatory guidelines forming part of such template are neither exhaustive nor static and are expected to be updated on an annual basis. Banks may, therefore, strive to put in an exhaustive compliance framework encompassing all guidelines emanating from RBI, identify potential breaches and remedy them up-front.\nb. Examination of compliance rigor prevalent in banks will be suitably factored in the risk assessment process and would go further in evaluating risk scores of banks. As banks may be aware, a similar regime prevails under the CAMELS/CALCS approach as well."
+    },
+    {
+      "Sr. No.": 84,
+      "Circular Reference": "Compliance Functions in Banks March 04, 2015",
+      "Regulator": "RBI",
+      "Section Reference": 2,
+      "Applicability": "Applicable",
+      "Circular Extract": "Conflict of interest and independence of compliance functions:\nSupervisory reviews have, at several times, pointed out significant and unwarranted forays of compliance functionaries on audit committees/Boards and vice versa. In order to ensure that there is no room for conflict of interest and the activities of the compliance function are subject to independent review, the compliance function and the audit function of the bank should necessarily be kept separate."
+    },
+    {
+      "Sr. No.": 85,
+      "Circular Reference": "Compliance Functions in Banks March 04, 2015",
+      "Regulator": "RBI",
+      "Section Reference": 3,
+      "Applicability": "Applicable",
+      "Circular Extract": "Reviews on compliance functions: Board/ACB/Board level committees/ Internal Audits should regularly review compliance functions in strict accordance with extant guidelines on the subject. Compliance failures may be reviewed by Boards/Management Committees and appropriate remedial measures may be taken."
+    },
+    {
+      "Sr. No.": 86,
+      "Circular Reference": "Compliance Functions in Banks March 04, 2015",
+      "Regulator": "RBI",
+      "Section Reference": 4,
+      "Applicability": "Applicable",
+      "Circular Extract": "Staffing of compliance Departments:\na. Staffing of compliance departments may be accorded adequate priority in order to ensure that the compliance wings discharge their functions without human resource constraints.\nb. Appropriate succession planning may be resorted to, for ensuring that the post of compliance officers does not remain vacant.\nc. In certain cases, appointment of compliance officers was not notified to RBI. Such instances may be avoided.\nd. Compliance structure, set-up of compliance Department, appointment of compliance officers etc may strictly be done in accordance with Para 5 of the extant guidelines."
+    },
+    {
+      "Sr. No.": 87,
+      "Circular Reference": "Compliance Functions in Banks March 04, 2015",
+      "Regulator": "RBI",
+      "Section Reference": 5,
+      "Applicability": "Applicable",
+      "Circular Extract": "RBI has been placing a lot of emphasis on banks’ adherence and compliance with MAP/RMP prescribed pursuant to the Annual Financial Inspection/Risk Based Supervision process. Compliance units may specifically devise a time-bound strategy to ensure that compliance on all specified points is achieved within the time frame. RBI will continue to expect an adept compliance scenario, where all MAP/RMP points are complied with well before the commencement of the subsequent supervisory cycle and/or within the periods prescribed for fulfilling the requirements of MAP/RMP. As banks may be aware, penal provisions can also be invoked for unsatisfactory compliance with MAP/RMP."
+    },
+    {
+      "Sr. No.": 88,
+      "Circular Reference": "Compliance Functions in Banks March 04, 2015",
+      "Regulator": "RBI",
+      "Section Reference": 6,
+      "Applicability": "Applicable",
+      "Circular Extract": "Compliance units in banks may evaluate the compliance risk in each business line at periodical intervals and put up the results to the Board/Management Committee."
+    },
+    {
+      "Sr. No.": 89,
+      "Circular Reference": "Compliance Functions in Banks March 04, 2015",
+      "Regulator": "RBI",
+      "Section Reference": 7,
+      "Applicability": "Applicable",
+      "Circular Extract": "It has been observed that few banks are submitting compliance to AFI/RBS inspection reports through their Inspection & Audit Department without bringing the same to the notice of the Chief Compliance Officer. Hence, in case compliance to RBI inspection reports is communicated through the Inspection & Audit department of banks to RBI, a copy of the same needs to be endorsed to the Chief Compliance Officer, for information."
+    },
+    {
+      "Sr. No.": 90,
+      "Circular Reference": "Compliance Functions in Banks March 04, 2015",
+      "Regulator": "RBI",
+      "Section Reference": 8,
+      "Applicability": "Applicable",
+      "Circular Extract": "It is important that the need to comply with instructions meticulously is re-emphasized among all the staff in the bank through continuous and mandatory training to all staff on compliance aspects, appropriate disciplinary measures through staff accountability framework/ policies for non compliance etc. Compliance should not be seen as an activity of the compliance department alone but as a culture that should pervade across the banks."
+    },
+    {
+      "Sr. No.": 91,
+      "Circular Reference": "Compliance Functions in Banks September 11, 2020",
+      "Regulator": "RBI",
+      "Section Reference": "-",
+      "Applicability": "Not Applicable",
+      "Circular Extract": "RBI/2020-21/35\nRef. No. DoS.CO.PPG./SEC.02/11.01.005/2020-21 September 11, 2020\nThe Chairman / Managing Director & Chief Executive Officer\nAll Scheduled Commercial Banks (Excluding RRBs)\nAll Local Area Banks and\nAll Small Finance Banks and Payment Banks\nMadam / Dear Sir,\nCompliance functions in banks and Role of Chief Compliance Officer (CCO)\nPlease refer to the guidelines on compliance functions vide our circulars DBS.CO.PP.BC.6/11.01.005/2006-07 dated April 20, 2007 and DBS.CO.PPD.10946/ 11.01.005/2014-15 dated March 04, 2015."
+    },
+    {
+      "Sr. No.": 92,
+      "Circular Reference": "Compliance Functions in Banks September 11, 2020",
+      "Regulator": "RBI",
+      "Section Reference": 2,
+      "Applicability": "Applicable",
+      "Circular Extract": "As part of robust compliance system, banks are required, inter-alia, to have an effective compliance culture, independent corporate compliance function and a strong compliance risk management programme at bank and group level. Such an independent compliance function is required to be headed by a designated Chief Compliance Officer (CCO) selected through a suitable process with an appropriate ‘fit and proper’ evaluation/selection criteria to manage compliance risk effectively."
+    },
+    {
+      "Sr. No.": 93,
+      "Circular Reference": "Compliance Functions in Banks September 11, 2020",
+      "Regulator": "RBI",
+      "Section Reference": 2.1,
+      "Applicability": "Applicable",
+      "Circular Extract": "Policy - A bank shall lay down a Board-approved compliance policy clearly spelling out its compliance philosophy, expectations on compliance culture covering Tone from the Top, Accountability, Incentive Structure and Effective Communication & Challenges thereof, structure and role of the compliance function, role of CCO, processes for identifying, assessing, monitoring, managing and reporting on compliance risk throughout the bank. This shall, inter-alia, adequately reflect the size, complexity and compliance risk profile of the bank, expectations on ensuring compliance to all applicable statutory provisions, rules and regulations, various codes of conducts (including the voluntary ones) and the bank’s own internal rules, policies and procedures, and creating a disincentive structure for compliance breaches. The bank shall also develop and maintain a quality assurance and improvement program covering all aspects of the compliance function. The quality assurance and improvement program shall be subject to independent external review periodically (at least once in three years). The policy should lay special thrust on building up compliance culture; vetting of the quality of supervisory / regulatory compliance reports to RBI by the top executives, non-executive Chairman / Chairman and ACB of the bank, as the case may be. The policy shall be reviewed at least once a year;"
+    },
+    {
+      "Sr. No.": 94,
+      "Circular Reference": "Compliance Functions in Banks September 11, 2020",
+      "Regulator": "RBI",
+      "Section Reference": 2.2,
+      "Applicability": "Applicable",
+      "Circular Extract": "Tenor for appointment of CCO - The CCO shall be appointed for a minimum fixed tenure of not less than 3 years. The Audit Committee of the Board (ACB) / Managing Director (MD) & CEO should factor this requirement while appointing CCO;"
+    },
+    {
+      "Sr. No.": 95,
+      "Circular Reference": "Compliance Functions in Banks September 11, 2020",
+      "Regulator": "RBI",
+      "Section Reference": 2.3,
+      "Applicability": "Applicable",
+      "Circular Extract": "Transfer / Removal of CCO - The CCO may be transferred / removed before completion of the tenure only in exceptional circumstances with the explicit prior approval of the Board after following a well-defined and transparent internal administrative procedure;"
+    },
+    {
+      "Sr. No.": 96,
+      "Circular Reference": "Compliance Functions in Banks September 11, 2020",
+      "Regulator": "RBI",
+      "Section Reference": 2.4,
+      "Applicability": "Applicable",
+      "Circular Extract": "Eligibility Criteria for appointment as CCO -\nRank - The CCO shall be a senior executive of the bank, preferably in the rank of a General Manager or an equivalent position (not below two levels from the CEO). The CCO could also be recruited from market;\nAge - Not more than 55 years;\nExperience - The CCO shall have an overall experience of at least 15 years in the banking or financial services, out of which minimum 5 years shall be in the Audit / Finance / Compliance / Legal / Risk Management functions;\nSkills - The CCO shall have good understanding of industry and risk management, knowledge of regulations, legal framework and sensitivity to supervisors’ expectations;\nStature - The CCO shall have the ability to independently exercise judgement. He should have the freedom and sufficient authority to interact with regulators/supervisors directly and ensure compliance;\nOthers - No vigilance case or adverse observation from RBI, shall be pending against the candidate identified for appointment as the CCO."
+    },
+    {
+      "Sr. No.": 97,
+      "Circular Reference": "Compliance Functions in Banks September 11, 2020",
+      "Regulator": "RBI",
+      "Section Reference": 2.5,
+      "Applicability": "Applicable",
+      "Circular Extract": "Selection Process - Selection of the candidate for the post of the CCO shall be done on the basis of a well-defined selection process and recommendations made by the senior executive level selection committee constituted by the Board for the purpose. The selection committee shall recommend the names of candidates suitable for the post of the CCO as per the rank in order of merit and Board shall take final decision in the appointment of CCO;"
+    },
+    {
+      "Sr. No.": 98,
+      "Circular Reference": "Compliance Functions in Banks September 11, 2020",
+      "Regulator": "RBI",
+      "Section Reference": 2.6,
+      "Applicability": "Applicable",
+      "Circular Extract": "Reporting Requirements - A prior intimation to the Department of Supervision, Reserve Bank of India, Central Office, Mumbai, shall be provided before appointment, premature transfer/removal of the CCO. Such information should be supported by a detailed profile of the candidate along with the fit and proper certification by the MD & CEO of the bank, confirming that the person meets the above supervisory requirements, and detailed rationale for changes, if any;"
+    },
+    {
+      "Sr. No.": 99,
+      "Circular Reference": "Compliance Functions in Banks September 11, 2020",
+      "Regulator": "RBI",
+      "Section Reference": 2.7,
+      "Applicability": "Applicable",
+      "Circular Extract": "Reporting Line - The CCO shall have direct reporting lines to the MD & CEO and/or Board/Board Committee (ACB) of the bank. In case the CCO reports to the MD & CEO, the Audit Committee of the Board shall meet the CCO quarterly on one-to-one basis, without the presence of the senior management including MD & CEO. The CCO shall not have any reporting relationship with the business verticals of the bank and shall not be given any business targets. Further, the performance appraisal of the CCO shall be reviewed by the Board/ACB;"
+    },
+    {
+      "Sr. No.": 100,
+      "Circular Reference": "Compliance Functions in Banks September 11, 2020",
+      "Regulator": "RBI",
+      "Section Reference": 2.8,
+      "Applicability": "Applicable",
+      "Circular Extract": "Authority - The CCO and compliance function shall have the authority to communicate with any staff member and have access to all records or files that are necessary to enable him/her to carry out entrusted responsibilities in respect of compliance issues. This authority should flow from the compliance policy of the bank;"
+    },
+    {
+      "Sr. No.": 101,
+      "Circular Reference": "Compliance Functions in Banks September 11, 2020",
+      "Regulator": "RBI",
+      "Section Reference": 2.9,
+      "Applicability": "Applicable",
+      "Circular Extract": "The duties and responsibilities of the compliance function - These shall include at least the following activities:\n(I) To apprise the Board and senior management on regulations, rules and standards and any further developments."
+    },
+    {
+      "Sr. No.": 102,
+      "Circular Reference": "Compliance Functions in Banks September 11, 2020",
+      "Regulator": "RBI",
+      "Section Reference": 2.9,
+      "Applicability": "Applicable",
+      "Circular Extract": "(ii) To provide clarification on any compliance related issues."
+    },
+    {
+      "Sr. No.": 103,
+      "Circular Reference": "Compliance Functions in Banks September 11, 2020",
+      "Regulator": "RBI",
+      "Section Reference": 2.9,
+      "Applicability": "Applicable",
+      "Circular Extract": "(iii) To conduct assessment of the compliance risk (at least once a year) and to develop a risk-oriented activity plan for compliance assessment. The activity plan should be submitted to the ACB for approval and be made available to the internal audit."
+    },
+    {
+      "Sr. No.": 104,
+      "Circular Reference": "Compliance Functions in Banks September 11, 2020",
+      "Regulator": "RBI",
+      "Section Reference": 2.9,
+      "Applicability": "Applicable",
+      "Circular Extract": "(iv) To report promptly to the Board / ACB / MD & CEO about any major changes / observations relating to the compliance risk."
+    },
+    {
+      "Sr. No.": 105,
+      "Circular Reference": "Compliance Functions in Banks September 11, 2020",
+      "Regulator": "RBI",
+      "Section Reference": 2.9,
+      "Applicability": "Applicable",
+      "Circular Extract": "(v) To periodically report on compliance failures/breaches to the Board/ACB and circulating to the concerned functional heads."
+    },
+    {
+      "Sr. No.": 106,
+      "Circular Reference": "Compliance Functions in Banks September 11, 2020",
+      "Regulator": "RBI",
+      "Section Reference": 2.9,
+      "Applicability": "Applicable",
+      "Circular Extract": "(vi) To monitor and periodically test compliance by performing sufficient and representative compliance testing. The results of the compliance testing should be placed to Board/ACB/MD & CEO."
+    },
+    {
+      "Sr. No.": 107,
+      "Circular Reference": "Compliance Functions in Banks September 11, 2020",
+      "Regulator": "RBI",
+      "Section Reference": 2.9,
+      "Applicability": "Applicable",
+      "Circular Extract": "(vii) To examine sustenance of compliance as an integral part of compliance testing and annual compliance assessment exercise"
+    },
+    {
+      "Sr. No.": 108,
+      "Circular Reference": "Compliance Functions in Banks September 11, 2020",
+      "Regulator": "RBI",
+      "Section Reference": 2.9,
+      "Applicability": "Applicable",
+      "Circular Extract": "(viii) To ensure compliance of Supervisory observations made by RBI and/or any other directions in both letter and spirit in a time bound and sustainable manner."
+    },
+    {
+      "Sr. No.": 109,
+      "Circular Reference": "Compliance Functions in Banks September 11, 2020",
+      "Regulator": "RBI",
+      "Section Reference": "2.10",
+      "Applicability": "Applicable",
+      "Circular Extract": "Internal Audit - The compliance function shall be subject to internal audit;"
+    },
+    {
+      "Sr. No.": 110,
+      "Circular Reference": "Compliance Functions in Banks September 11, 2020",
+      "Regulator": "RBI",
+      "Section Reference": 2.11,
+      "Applicability": "Applicable",
+      "Circular Extract": "Dual Hatting - There shall not be any ‘dual hatting’ i.e. the CCO shall not be given any responsibility which brings elements of conflict of interest, especially the role relating to business. Roles which do not attract direct conflict of interest like role of anti-money laundering officer, etc. can be performed by the CCO in those banks where principle of proportionality in terms of bank’s size, complexity, risk management strategy and structures justify that;"
+    },
+    {
+      "Sr. No.": 111,
+      "Circular Reference": "Compliance Functions in Banks September 11, 2020",
+      "Regulator": "RBI",
+      "Section Reference": 2.12,
+      "Applicability": "Applicable",
+      "Circular Extract": "The CCO shall not be member of any committee which brings his/her role in conflict with responsibility as member of the committee, including any committee dealing with purchases / sanctions. In case the CCO is member of a committee, he/she may have only advisory role;"
+    },
+    {
+      "Sr. No.": 112,
+      "Circular Reference": "Compliance Functions in Banks September 11, 2020",
+      "Regulator": "RBI",
+      "Section Reference": 2.13,
+      "Applicability": "Applicable",
+      "Circular Extract": "Typical core elements of the mandate of CCO must include the design and maintenance of compliance framework, training on the regulatory and conduct risks, and effective communication of compliance expectations, etc.;"
+    },
+    {
+      "Sr. No.": 113,
+      "Circular Reference": "Compliance Functions in Banks September 11, 2020",
+      "Regulator": "RBI",
+      "Section Reference": 2.14,
+      "Applicability": "Applicable",
+      "Circular Extract": "The bank’s Board of Directors shall be overall responsible for overseeing the effective management of the bank’s compliance function and compliance risk. The MD & CEO shall ensure the presence of independent compliance function and adherence to the compliance policy of the bank."
+    },
+    {
+      "Sr. No.": 114,
+      "Circular Reference": "Compliance Functions in Banks September 11, 2020",
+      "Regulator": "RBI",
+      "Section Reference": 3,
+      "Applicability": "Applicable",
+      "Circular Extract": "The instructions contained in the circular would come into effect immediately from the date of this circular and any new appointment shall be governed by the instructions contained herein. In respect of banks already having a CCO, they may follow the indicated processes for\nselection of CCO within a period of six months and are free to reappoint the current incumbent as the CCO if she/he meets all the requirements."
+    }
+  ]

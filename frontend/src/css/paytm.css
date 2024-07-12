@@ -1,0 +1,75 @@
+.paytm-outer-div {
+  padding: 20px;
+  background-color: #e7d0e6;
+  border-radius: 5px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  max-height: 400px;
+  overflow: auto;
+  text-align: center; 
+}
+
+.paytm-register-table {
+  width: 100%;
+  border-collapse: collapse;
+  background-color: #fff;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  margin: 0 auto; 
+}
+
+.paytm-register-table th,
+.paytm-register-table td {
+  padding: 12px 15px;
+}
+
+.paytm-register-table th {
+  background-color: #86469C;
+  font-weight: bold;
+}
+
+.date-input,
+.select-input,
+.textarea-input,
+.text-input {
+  padding: 6px 12px;
+  font-size: 14px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+}
+
+.select-input {
+  padding-right: 30px;
+  margin: 0 auto; /* Added */
+  display: block; /* Added */
+}
+
+.link {
+  color: #007bff;
+  text-decoration: none;
+}
+
+.link:hover {
+  text-decoration: underline;
+}
+
+
+.paytm-file-input {
+  display: inline-block;
+  padding: 6px 12px;
+  font-size: 14px;
+  background-color: #fff;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  cursor: pointer;
+}
+.remove-button {
+  background-color: #86469C;
+  color: white;
+  border: none;
+  padding: 5px 10px;
+  border-radius: 5px;
+  cursor: pointer;
+}
+textarea{
+  border: 1px solid #000000;
+}

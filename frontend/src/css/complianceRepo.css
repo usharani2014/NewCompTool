@@ -1,0 +1,226 @@
+/* compliance.css */
+ 
+/* div {
+  margin: 5px;
+} */
+ 
+.fullBody {
+  min-height: 200px;
+}
+ 
+.button-container {
+  display: flex;
+  flex-wrap: wrap; /* Wrap buttons to next line if space is not enough */
+  gap: 20px;
+  border: 1px solid #5a5959;
+  border-radius: 5px;
+  margin-top: 10px;
+  align-items: center;
+  padding-left: 10px;
+  margin-bottom: 10px;
+}
+ 
+.button-content-container {
+  display: flex;
+  gap: 20px;
+  height: 70px;
+  align-items: center;
+}
+ 
+::-webkit-scrollbar {
+  width: 6px;
+  height: 6px;
+}
+ 
+::-webkit-scrollbar-track {
+  background-color: #742190(0, 72, 255, 0.577);
+  border-radius: 10px;
+}
+ 
+::-webkit-scrollbar-thumb {
+  background-color: #742190;
+  border-radius: 10px;
+}
+ 
+input {
+  padding: 0.5rem;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+}
+ 
+.btn-group {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  row-gap: 3rem;
+  border-radius: 10px;
+  background-color: #fff;
+}
+ 
+.btn {
+  color: white;
+  padding: 0.5rem 1.3rem;
+  border: none;
+  cursor: pointer;
+  border-radius: 5px;
+  font-size: 0.9rem;
+}
+ 
+.btn-intermediate {
+  background: linear-gradient(to right, #a22fc9, #9752ae);
+  color: rgb(252, 251, 251);
+  border: 1px solid #73288b;
+  cursor: pointer;
+  border-radius: 10px;
+  box-shadow: 0px 4px 5px rgba(0, 0, 0, 0.2);
+  transition: transform 0.3s ease-in-out;
+}
+ 
+.btn-intermediate:hover {
+  transform: scale(1.1);
+}
+ 
+input[type="file"]::file-selector-button {
+  border: 2px solid #ae62c7;
+  padding: 0.2em 0.4em;
+  border-radius: 0.2em;
+  background-color: #ae62c7;
+  transition: 1s;
+}
+ 
+input[type="file"]::-ms-browse:hover {
+  background-color: #ae62c7;
+  border: 2px solid #5e1675;
+}
+ 
+input[type="file"]::-webkit-file-upload-button:hover {
+  background-color: #ae62c7;
+  border: 2px solid #942fb5;
+}
+ 
+input[type="file"]::file-selector-button:hover {
+  background-color: #7c3b92;
+  border: 2px solid #5e1675;
+}
+ 
+/* Table */
+table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-bottom: 1rem;
+}
+thead {
+  background-color: #742190;
+  color: white;
+}
+th {
+  text-align: center;
+}
+tbody {
+  background-color: #f7f7f7;
+}
+tr {
+  border-bottom: 1px solid #ddd;
+}
+/* Table Body - Hover effect */
+tbody tr:hover {
+  background-color: #e0e0e0;
+}
+ 
+/* Button inside table */
+.btn {
+  color: white;
+  padding: .5rem 1.3rem;
+  border: none;
+  cursor: pointer;
+  border-radius: 5px;
+  font-size: .9rem;
+}
+ 
+.btn-intermediate {
+  background: linear-gradient(to right, #a22fc9, #9752ae);
+  color: rgb(252, 251, 251);
+  border: 1px solid #73288b;
+  cursor: pointer;
+  border-radius: 10px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  box-shadow: 0px 4px 5px rgba(0, 0, 0, 0.2);
+  transition: transform 0.3s ease-in-out;
+}
+ 
+.btn-intermediate:hover {
+  transform: scale(1.1);
+}
+.register-table {
+  width: 100%;
+  border-collapse: collapse;
+  border-radius: 10px;
+  font-size: 16px;
+  margin-left: 10px;
+  background-color: #fff;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+ 
+.register-table thead {
+  background-color: #86469C;
+  border-top-left-radius: 10px;
+  border-top-right-radius: 10px;
+}
+ 
+.register-table thead th {
+  padding: 12px 16px;
+  text-align: left;
+  color: #fff;
+  font-weight: 500;
+  font-size: 16px;
+}
+ 
+.register-tr {
+  border-bottom: 1px solid #e0e0e0;
+  transition: background-color 0.3s, box-shadow 0.3s;
+}
+ 
+.register-tr:hover {
+  background-color: #f7fafc;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+ 
+.register-tr td {
+  color: #000;
+  font-size: 16px;
+}
+@media screen and (max-width: 768px) {
+  .button-container {
+      flex-direction: row;
+      gap: 10px;
+      padding: 10px;
+  }
+ 
+  .button-content-container {
+      flex-direction: column;
+      gap: 10px;
+  }
+ 
+  .btn-group {
+      row-gap: 2rem;
+  }
+ 
+  .btn {
+      padding: 0.4rem 1rem; /* Reduced padding for small screens */
+      font-size: 0.8rem; /* Reduced font size for small screens */
+  }
+ 
+  .btn-intermediate {
+      margin-top: 1px; /* Reduced margin for small screens */
+      margin-bottom: 1px; /* Reduced margin for small screens */
+  }
+}
+ 
+@media screen and (max-width: 480px) {
+  .btn {
+      padding: 0.3rem 0.8rem; /* Further reduced padding for extra small screens */
+  }
+}
+ 

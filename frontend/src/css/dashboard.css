@@ -1,0 +1,10 @@
+.extra-div {
+    width: 250px;
+    background-color: lightgray;
+  }
+ 
+  @media (max-width: 768px) {
+    .extra-div {
+      width: 0;
+    }
+  }

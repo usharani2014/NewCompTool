@@ -1,0 +1,5 @@
+node_modules
+errors.log
+tmp
+.env
+package-lock.json

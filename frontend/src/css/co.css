@@ -1,0 +1,61 @@
+.co-scrollable-table-container {
+    overflow-x: auto;
+    max-width: 100%;
+    padding: 0 30px;
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+    border-radius: 8px;
+  }
+  
+  .co-table {
+    width: 100%;
+    border-collapse: collapse;
+    transition: box-shadow 0.3s ease-in-out;
+  }
+  
+  .co-table th,
+  .co-table td {
+    border: 1px solid #020202;
+    text-align: left;
+    transition: background-color 0.3s ease-in-out;
+    font-size: 15px; 
+  }
+  
+  .co-table th {
+    background-color: #86469C;
+    color: #fff;
+    font-weight: bold;
+  }
+  
+  .co-table tr:hover {
+    background-color: #D6DAC8;
+  }
+  
+  .co-button-content-container {
+    margin-top: 20px;
+    display: flex;
+    justify-content: center;
+    padding-bottom: 10px;
+  }
+  
+  .co-btn {
+    border: none;
+    color: white;
+    padding: 12px 24px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 15px; 
+    cursor: pointer;
+    border-radius: 5px;
+    transition: background-color 0.3s ease-in-out, transform 0.3s ease-in-out;
+  }
+  
+  .co-btn-intermediate {
+    background-color: #86469C;
+  }
+  
+  .co-btn:hover {
+    background-color: #6d3b87;
+    transform: translateY(-2px);
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  }

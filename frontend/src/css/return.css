@@ -1,0 +1,70 @@
+
+.upload-btn,
+.reset-btn {
+  padding: 10px 20px;
+  border: 2px solid #742190;
+  background-color: #742190;
+  color: #fff;
+  cursor: pointer;
+  border-radius: 5px;
+  margin: 10px;
+}
+
+.upload-btn:hover,
+.reset-btn:hover {
+  background-color: #bc4fe1;
+  border-color: #593c63;
+}
+.table-container {
+  overflow-x: auto;
+  max-width: 100%; 
+}
+.custom-table1 {
+  width: 100%;
+  border-collapse: collapse;
+  background-color: #f9f9f9;
+}
+
+.custom-table1 th,
+.custom-table1 td {
+  padding: 4px;
+  text-align: left;
+}
+
+.custom-table1 th {
+  white-space: nowrap;
+  background-color: #742190;
+  color: white;
+}
+
+.custom-table1 tbody tr:nth-child(even) {
+  background-color: #f0f0f0;
+}
+
+.custom-table1 tbody tr:hover {
+  background-color: #dcd6dc;
+  transition: background-color 0.3s ease;
+}
+
+.custom-table1 tbody tr:hover td:first-child {
+  font-weight: bold;
+}
+
+.save-btn {
+  background-color: #742190;
+  border: none;
+  color: white;
+  padding: 8px 16px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+  border-radius: 5px;
+}
+
+.table-input {
+  width: 100%;
+  box-sizing: border-box;
+}

@@ -1,0 +1,16 @@
+.btn-3d {
+  display: inline-block;
+  padding: 0.5rem 1rem;
+  border: none;
+  border-radius: 0.25rem;
+  background-color: #86469C; /* customPurple color */
+  color: white;
+  text-decoration: none;
+  box-shadow: 0 0.1rem 0.3rem rgba(0, 0, 0, 0.1); /* Transparent shadow effect */
+  transition: transform 0.3s, box-shadow 0.3s;
+}
+
+.btn-3d:hover {
+  transform: translateY(-0.1rem); /* Move button slightly up on hover */
+  box-shadow: 0 0.3rem 0.5rem rgba(0, 0, 0, 0.2); /* Increase shadow on hover */
+}
